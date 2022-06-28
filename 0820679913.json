@@ -27,7 +27,7 @@
             {
                 "acqIndetifier": "026",
                 "acqName": "Eurobank",
-                "allowLocal": true,
+                "allowLocal": false,
                 "allowRefund": true,
                 "allowKeyEntry": true,
                 "allowMoto": true
