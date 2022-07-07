@@ -47,6 +47,14 @@
                 "allowRefund": true,
                 "allowKeyEntry": false,
                 "allowMoto": true
+            },
+            {
+                "acqIndetifier": "016",
+                "acqName": "Aticca Bank",
+                "allowLocal": true,
+                "allowRefund": true,
+                "allowKeyEntry": false,
+                "allowMoto": true
             }
         ]
     },
