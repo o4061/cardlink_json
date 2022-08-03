@@ -29,7 +29,7 @@
                 "acqName": "Eurobank",
                 "allowLocal": false,
                 "allowRefund": true,
-                "allowKeyEntry": true,
+                "allowKeyEntry": false,
                 "allowMoto": true
             },
             {
