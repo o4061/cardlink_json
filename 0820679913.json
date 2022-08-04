@@ -45,7 +45,7 @@
                 "acqName": "Piraeus Bank",
                 "allowLocal": true,
                 "allowRefund": true,
-                "allowKeyEntry": false,
+                "allowKeyEntry": true,
                 "allowMoto": true
             },
             {
