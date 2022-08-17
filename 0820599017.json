@@ -4,12 +4,12 @@
         "merchantCategoryCode": "7399",
         "merchantApplicationType": "0",
         "merchantPostalCode": "14121",
-        "merchantName": "KAVGIOULAS PRODUCTION A920",
+        "merchantName": "FALTAKAS TEST",
         "merchantAddress": "Marinou Antupa 41-45",
         "merchantTelephone": "2101111113",
         "cardlinkMerchantType": "",
         "merchantID": "0023839673",
-        "terminalID": "TXYHIJJ2",
+        "terminalID": "01234567",
         "customerID": "00000000000001",
         "acqIndetifier": "",
         "acqName": ""
@@ -27,7 +27,7 @@
             {
                 "acqIndetifier": "026",
                 "acqName": "Eurobank",
-                "allowLocal": true,
+                "allowLocal": false,
                 "allowRefund": true,
                 "allowKeyEntry": true,
                 "allowMoto": true
@@ -36,7 +36,7 @@
                 "acqIndetifier": "011",
                 "acqName": "Εθνική Τράπεζα",
                 "allowLocal": true,
-                "allowRefund": true,
+                "allowRefund": false,
                 "allowKeyEntry": true,
                 "allowMoto": false
             },
@@ -46,6 +46,14 @@
                 "allowLocal": true,
                 "allowRefund": true,
                 "allowKeyEntry": true,
+                "allowMoto": true
+            },
+            {
+                "acqIndetifier": "016",
+                "acqName": "Aticca Bank",
+                "allowLocal": true,
+                "allowRefund": true,
+                "allowKeyEntry": false,
                 "allowMoto": true
             }
         ]
@@ -64,7 +72,7 @@
         "useMastercardNewBrand": true,
         "supportKeyEntry": true,
         "supportInstallments": true,
-        "supportTIP": true,
+        "supportTIP": false,
         "useBenakiTheme": false,
         "useVodafoneTheme": false,
         "useSklavenitisTheme": false,
