@@ -38,7 +38,7 @@
                 "allowLocal": true,
                 "allowRefund": false,
                 "allowKeyEntry": true,
-                "allowMoto": false
+                "allowMoto": true
             },
             {
                 "acqIndetifier": "017",
