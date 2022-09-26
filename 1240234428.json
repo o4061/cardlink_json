@@ -36,7 +36,7 @@
                 "acqIndetifier": "011",
                 "acqName": "Εθνική Τράπεζα",
                 "allowLocal": true,
-                "allowRefund": false,
+                "allowRefund": true,
                 "allowKeyEntry": true,
                 "allowMoto": true
             },
