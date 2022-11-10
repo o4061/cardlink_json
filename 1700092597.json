@@ -117,7 +117,7 @@
         },
         "supportOrderThermalRollEnabled": true,
         "receiptSettings": {
-            "showEmvDataInReceipt": false,
+            "showEmvDataInReceipt": true,
             "acquirerBankNameAsBIDSetting": false,
             "barcodeSetting": "00",
             "customLogo": "",
