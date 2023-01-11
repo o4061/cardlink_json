@@ -150,7 +150,7 @@
     },
     "ecrSettings": {
         "ecrSystem": true,
-        "ecrSystemDefaultPort": 4003,
+        "ecrSystemDefaultPort": 4000,
         "ecrSystemMode": 0,
         "ecrSystemProtocol": 0
     },
