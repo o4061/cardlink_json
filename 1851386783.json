@@ -146,7 +146,8 @@
         "pbgYellowPointsToRedeem": "2000",
         "sklavenitisPrepaidEnabled": true,
         "asfalistikosgoneasEnabled": true,
-        "asfalistikosgoneasForceOnline": true
+        "asfalistikosgoneasForceOnline": true,
+        "cardlinkLoyaltyEnabled": true
     },
     "ecrSettings": {
         "ecrSystem": true,
