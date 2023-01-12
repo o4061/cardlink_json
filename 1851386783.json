@@ -21,7 +21,7 @@
                 "acqName": "Alpha Bank",
                 "allowLocal": true,
                 "allowRefund": true,
-                "allowKeyEntry": true,
+                "allowKeyEntry": false,
                 "allowMoto": false
             },
             {
