@@ -21,22 +21,22 @@
                 "acqName": "Alpha Bank",
                 "allowLocal": true,
                 "allowRefund": true,
-                "allowKeyEntry": true,
+                "allowKeyEntry": false,
                 "allowMoto": false
             },
             {
                 "acqIndetifier": "026",
                 "acqName": "Eurobank",
                 "allowLocal": false,
-                "allowRefund": true,
+                "allowRefund": false,
                 "allowKeyEntry": true,
                 "allowMoto": true
             },
             {
                 "acqIndetifier": "011",
                 "acqName": "Εθνική Τράπεζα",
-                "allowLocal": true,
-                "allowRefund": true,
+                "allowLocal": false,
+                "allowRefund": false,
                 "allowKeyEntry": true,
                 "allowMoto": true
             },
