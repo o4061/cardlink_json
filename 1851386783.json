@@ -21,14 +21,14 @@
                 "acqName": "Alpha Bank",
                 "allowLocal": true,
                 "allowRefund": true,
-                "allowKeyEntry": false,
-                "allowMoto": false
+                "allowKeyEntry": true,
+                "allowMoto": true
             },
             {
                 "acqIndetifier": "026",
                 "acqName": "Eurobank",
-                "allowLocal": false,
-                "allowRefund": false,
+                "allowLocal": true,
+                "allowRefund": true,
                 "allowKeyEntry": true,
                 "allowMoto": true
             },
@@ -53,7 +53,7 @@
                 "acqName": "Aticca Bank",
                 "allowLocal": true,
                 "allowRefund": true,
-                "allowKeyEntry": false,
+                "allowKeyEntry": true,
                 "allowMoto": true
             }
         ]
