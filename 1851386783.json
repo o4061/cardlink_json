@@ -55,14 +55,6 @@
                 "allowRefund": true,
                 "allowKeyEntry": true,
                 "allowMoto": true
-            },
-            {
-                "acqIndetifier": "887",
-                "acqName": "Cardlink One",
-                "allowLocal": true,
-                "allowRefund": true,
-                "allowKeyEntry": true,
-                "allowMoto": true
             }
         ]
     },
