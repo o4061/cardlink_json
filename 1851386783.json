@@ -2,7 +2,7 @@
     "merchant": {
         "merchantCity": "HRAKLEION",
         "merchantCategoryCode": "7399",
-        "merchantApplicationType": "2",
+        "merchantApplicationType": "0",
         "merchantPostalCode": "14121",
         "merchantName": "FALTAKAS TEST",
         "merchantAddress": "Marinou Antupa 41-45",
@@ -147,7 +147,7 @@
         "sklavenitisPrepaidEnabled": true,
         "asfalistikosgoneasEnabled": true,
         "asfalistikosgoneasForceOnline": true,
-        "cardlinkLoyaltyEnabled": true
+        "cardlinkLoyaltyEnabled": false
     },
     "ecrSettings": {
         "ecrSystem": true,
