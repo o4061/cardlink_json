@@ -72,7 +72,7 @@
 "useBenakiTheme": false,
 "useVodafoneTheme": false,
 "showEmvDataInReceipt": false,
-"useAutoCloseBatch": false,
+"useAutoCloseBatch": true,
 "useAutoCloseBatchTimer": "01:00",
 "alphaBankDCCSupport": false,
 "alphaBankDCCProfileId": "19011",
