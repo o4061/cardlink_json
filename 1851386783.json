@@ -19,7 +19,7 @@
             {
                 "acqIndetifier": "014",
                 "acqName": "Alpha Bank",
-                "allowLocal": true,
+                "allowLocal": false,
                 "allowRefund": true,
                 "allowKeyEntry": true,
                 "allowMoto": true
