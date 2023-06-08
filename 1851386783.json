@@ -22,7 +22,8 @@
                 "allowLocal": true,
                 "allowRefund": true,
                 "allowKeyEntry": true,
-                "allowMoto": true
+                "allowMoto": true,
+                "premiumLocalApprovalCode" : ""
             },
             {
                 "acqIndetifier": "026",
@@ -30,7 +31,8 @@
                 "allowLocal": false,
                 "allowRefund": true,
                 "allowKeyEntry": true,
-                "allowMoto": true
+                "allowMoto": true,
+                "premiumLocalApprovalCode" : "555555"
             },
             {
                 "acqIndetifier": "011",
@@ -38,7 +40,8 @@
                 "allowLocal": false,
                 "allowRefund": true,
                 "allowKeyEntry": true,
-                "allowMoto": true
+                "allowMoto": true,
+                "premiumLocalApprovalCode" : ""
             },
             {
                 "acqIndetifier": "017",
@@ -46,7 +49,8 @@
                 "allowLocal": false,
                 "allowRefund": true,
                 "allowKeyEntry": true,
-                "allowMoto": true
+                "allowMoto": true,
+                "premiumLocalApprovalCode" : ""
             },
             {
                 "acqIndetifier": "016",
@@ -54,7 +58,8 @@
                 "allowLocal": false,
                 "allowRefund": true,
                 "allowKeyEntry": true,
-                "allowMoto": true
+                "allowMoto": true,
+                "premiumLocalApprovalCode" : ""
             }
         ]
     },
