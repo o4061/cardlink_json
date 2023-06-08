@@ -23,6 +23,38 @@
                 "allowRefund": true,
                 "allowKeyEntry": true,
                 "allowMoto": true
+            },
+            {
+                "acqIndetifier": "026",
+                "acqName": "Eurobank",
+                "allowLocal": false,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true
+            },
+            {
+                "acqIndetifier": "011",
+                "acqName": "Εθνική Τράπεζα",
+                "allowLocal": false,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true
+            },
+            {
+                "acqIndetifier": "017",
+                "acqName": "Piraeus Bank",
+                "allowLocal": false,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true
+            },
+            {
+                "acqIndetifier": "016",
+                "acqName": "Aticca Bank",
+                "allowLocal": false,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true
             }
         ]
     },
