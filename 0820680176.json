@@ -4,12 +4,12 @@
         "merchantCategoryCode": "7399",
         "merchantApplicationType": "0",
         "merchantPostalCode": "14121",
-        "merchantName": "PANAGIOTIS TEST",
+        "merchantName": "FALTAKAS TEST",
         "merchantAddress": "Marinou Antupa 41-45",
         "merchantTelephone": "2101111113",
         "cardlinkMerchantType": "",
         "merchantID": "0023839673",
-        "terminalID": "77601578",
+        "terminalID": "77605412",
         "customerID": "00000000000001",
         "acqIndetifier": "",
         "acqName": ""
@@ -22,7 +22,8 @@
                 "allowLocal": true,
                 "allowRefund": true,
                 "allowKeyEntry": true,
-                "allowMoto": true
+                "allowMoto": true,
+                "premiumLocalApprovalCode" : ""
             },
             {
                 "acqIndetifier": "026",
@@ -30,23 +31,35 @@
                 "allowLocal": false,
                 "allowRefund": true,
                 "allowKeyEntry": true,
-                "allowMoto": true
+                "allowMoto": true,
+                "premiumLocalApprovalCode" : "555555"
             },
             {
                 "acqIndetifier": "011",
                 "acqName": "Εθνική Τράπεζα",
-                "allowLocal": true,
-                "allowRefund": false,
+                "allowLocal": false,
+                "allowRefund": true,
                 "allowKeyEntry": true,
-                "allowMoto": false
+                "allowMoto": true,
+                "premiumLocalApprovalCode" : ""
             },
             {
                 "acqIndetifier": "017",
                 "acqName": "Piraeus Bank",
-                "allowLocal": true,
+                "allowLocal": false,
                 "allowRefund": true,
-                "allowKeyEntry": false,
-                "allowMoto": true
+                "allowKeyEntry": true,
+                "allowMoto": true,
+                "premiumLocalApprovalCode" : ""
+            },
+            {
+                "acqIndetifier": "016",
+                "acqName": "Aticca Bank",
+                "allowLocal": false,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true,
+                "premiumLocalApprovalCode" : ""
             }
         ]
     },
@@ -63,17 +76,17 @@
         "sdkLink": 1,
         "useMastercardNewBrand": true,
         "supportKeyEntry": true,
-        "supportInstallments": true,
+        "supportInstallments": false,
         "supportTIP": false,
         "useBenakiTheme": false,
         "useVodafoneTheme": false,
         "useSklavenitisTheme": false,
         "autoReactivationTimer": "180",
-        "useAutoSettlement": true,
+        "useAutoSettlement": false,
         "useAutoCloseBatch": true,
         "useAutoCloseBatchTimer": "22:53",
         "useAutoParams": true,
-        "useAutoParamsTimer": "01:38",
+        "useAutoParamsTimer": "09:58",
         "alphaBankDCCSupport": true,
         "alphaBankDCCProfileId": "19010",
         "alphaBankDCCPartnerId": "9010",
@@ -111,10 +124,11 @@
         "receiptSettings": {
             "showEmvDataInReceipt": false,
             "acquirerBankNameAsBIDSetting": false,
-            "barcodeSetting": "00",
+            "barcodeSetting": "01",
             "customLogo": "",
             "dualLogoPrint": false,
             "cardlinkLogoOnTop": false,
+            "merchantReceipt": false,
             "asfalistikosgoneasPromoMessage": "ΕΞΟΦΛΗΣΤΕ ΤΑ ΑΣΦΑΛΙΣΤΡΑ ΣΑΣ ΜΕ ΠΙΣΤΩΤΙΚΗ ΚΑΡΤΑ ΚΑΙ ΚΕΡΔΙΣΤΕ ΕΚΠΤΩΣΗ ΕΩΣ ΚΑΙ 10% ΕΝΗΜΕΡΩΘΕΙΤΕ ΣΤΟ 210 8119670"
         }
     },
@@ -135,14 +149,15 @@
         "pbgYellowVTid": "99923870",
         "pbgYellowVMid": "142647833",
         "pbgYellowPointsToRedeem": "2000",
-        "sklavenitisPrepaidEnabled": false,
+        "sklavenitisPrepaidEnabled": true,
         "asfalistikosgoneasEnabled": true,
-        "asfalistikosgoneasForceOnline": true
+        "asfalistikosgoneasForceOnline": true,
+        "cardlinkLoyaltyEnabled": false
     },
     "ecrSettings": {
         "ecrSystem": true,
         "ecrSystemDefaultPort": 4000,
-        "ecrSystemMode": 1,
+        "ecrSystemMode": 0,
         "ecrSystemProtocol": 0
     },
     "billPayment": {
