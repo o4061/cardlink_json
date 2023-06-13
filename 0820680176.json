@@ -23,7 +23,7 @@
                 "allowRefund": true,
                 "allowKeyEntry": true,
                 "allowMoto": true,
-                "premiumLocalApprovalCode" : "444444"
+                "premiumLocalApprovalCode" : ""
             },
             {
                 "acqIndetifier": "026",
