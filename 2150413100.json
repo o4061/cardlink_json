@@ -62,7 +62,7 @@
 "useSklavenitisTheme": false,
 "autoReactivationTimer": "180",
 "useAutoSettlement": false,
-"useAutoCloseBatch": false,
+"useAutoCloseBatch": true,
 "useAutoCloseBatchTimer": "23:47",
 "useAutoParams": true,
 "useAutoParamsTimer": "06:47",
