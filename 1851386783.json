@@ -79,7 +79,7 @@
         "supportKeyEntry": true,
         "supportInstallments": false,
         "supportTIP": false,
-        "useBenakiTheme": true,
+        "useBenakiTheme": false,
         "useVodafoneTheme": false,
         "useSklavenitisTheme": false,
         "autoReactivationTimer": "180",
