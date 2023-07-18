@@ -80,7 +80,7 @@
         "supportInstallments": false,
         "supportTIP": false,
         "useBenakiTheme": true,
-        "useVodafoneTheme": true,
+        "useVodafoneTheme": false,
         "useSklavenitisTheme": false,
         "autoReactivationTimer": "180",
         "useAutoSettlement": false,
