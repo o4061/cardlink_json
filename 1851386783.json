@@ -159,7 +159,8 @@
         "ecrSystem": true,
         "ecrSystemDefaultPort": 4000,
         "ecrSystemMode": 0,
-        "ecrSystemProtocol": 0
+        "ecrSystemProtocol": 0,
+        "ecrVendor" : "AADE"
     },
     "billPayment": {
         "useBillPayment": false,
