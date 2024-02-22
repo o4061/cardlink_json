@@ -61,6 +61,15 @@
                 "allowKeyEntry": true,
                 "allowMoto": true,
                 "premiumLocalApprovalCode" : ""
+            },
+            {
+                "acqIndetifier": "887",
+                "acqName": "Cardlink One",
+                "allowLocal": false,
+                "allowRefund": false,
+                "allowKeyEntry": true,
+                "allowMoto": true,
+                "premiumLocalApprovalCode" : ""
             }
         ]
     },
