@@ -152,7 +152,8 @@
         "ecrSystem": true,
         "ecrSystemDefaultPort": 4000,
         "ecrSystemMode": 0,
-        "ecrSystemProtocol": 0
+        "ecrSystemProtocol": 0,
+	"EcrVendor": "1"
     },
     "billPayment": {
         "useBillPayment": false,
