@@ -7,6 +7,7 @@
         "merchantName": "FALTAKAS TEST",
         "merchantAddress": "Marinou Antupa 41-45",
         "merchantTelephone": "2101111113",
+        "merchantVatNumber":"979703476",
         "cardlinkMerchantType": "",
         "merchantID": "0023839673",
         "terminalID": "71700001",
@@ -151,7 +152,8 @@
         "ecrSystem": true,
         "ecrSystemDefaultPort": 4000,
         "ecrSystemMode": 0,
-        "ecrSystemProtocol": 0
+        "ecrSystemProtocol": 0,
+        "ecrVendor": "1"
     },
     "billPayment": {
         "useBillPayment": false,
