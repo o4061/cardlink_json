@@ -110,7 +110,7 @@
         "ishceSelectionEnabled": false,
         "ishceSelectionAcquirerBankId": "011",
         "refundValidationEnabled": false,
-        "localSaleEnabled": true,
+        "localSaleEnabled": false,
         "isManualAcquirerSelection": true,
         "preAuthEnabled": true,
         "unattendedMode": false,
