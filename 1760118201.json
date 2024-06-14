@@ -171,7 +171,7 @@
         "disableNavigatorBar": false,
         "disableStatusBar": false,
         "allowAutoNetworkFallback": false,
-        "useMicroserviceDateTime": true,
+        "useMicroserviceDateTime": false,
         "useHostDateTime": false
     },
     "config_file": "https://mpos.cardlink.gr/files/SPm2/CAKEYS.CFG",
