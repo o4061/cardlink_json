@@ -12,6 +12,7 @@
         "merchantID": "0023839673",
         "terminalID": "71700001",
         "customerID": "00000000000001",
+        "merchantVatNumber": "979703476",
         "acqIndetifier": "",
         "acqName": ""
     },
@@ -153,7 +154,7 @@
         "ecrSystemDefaultPort": 4000,
         "ecrSystemMode": 0,
         "ecrSystemProtocol": 0,
-        "ecrVendor": "2"
+        "ecrVendor": "1"
     },
     "billPayment": {
         "useBillPayment": false,
