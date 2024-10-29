@@ -37,7 +37,7 @@
             },
             {
                 "acqIndetifier": "011",
-                "acqName": "Εθνική Τράπεζα",
+                "acqName": "Nbg Pay",
                 "allowLocal": true,
                 "allowRefund": true,
                 "allowKeyEntry": true,
