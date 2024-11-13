@@ -75,7 +75,7 @@
         "supportInstallments": false,
         "supportTIP": false,
         "useBenakiTheme": false,
-        "useVodafoneTheme": false,
+        "useVodafoneTheme": true,
         "useSklavenitisTheme": false,
         "autoReactivationTimer": "180",
         "useAutoSettlement": true,
