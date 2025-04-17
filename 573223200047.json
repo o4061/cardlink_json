@@ -19,17 +19,17 @@
         "acquirers": [
             {
                 "acqIndetifier" : "014",
-                "acqName" : "Alpha Bank",
+                "acqName" : "Nexi",
                 "allowLocal" : true,
                 "allowRefund" : true,
-                "allowKeyEntry" : false,
-                "allowMoto" : false,
+                "allowKeyEntry" : true,
+                "allowMoto" : true,
                 "premiumLocalApprovalCode" : ""
             },
             {
                 "acqIndetifier": "026",
-                "acqName": "Eurobank",
-                "allowLocal": false,
+                "acqName": "Worldline",
+                "allowLocal": true,
                 "allowRefund": true,
                 "allowKeyEntry": true,
                 "allowMoto": true,
@@ -37,7 +37,7 @@
             },
             {
                 "acqIndetifier": "011",
-                "acqName": "Εθνική Τράπεζα",
+                "acqName": "National Bank",
                 "allowLocal": true,
                 "allowRefund": true,
                 "allowKeyEntry": true,
@@ -77,7 +77,7 @@
         "sdkLink": 1,
         "useMastercardNewBrand": true,
         "supportKeyEntry": true,
-        "supportInstallments": true,
+        "supportInstallments": false,
         "supportTIP": true,
         "useBenakiTheme": false,
         "useVodafoneTheme": false,
