@@ -40,9 +40,9 @@
     "applicationSettings": {
         "sdkLink": 1,
         "useMastercardNewBrand": true,
-        "supportKeyEntry": true,
-        "supportInstallments": true,
-        "supportTIP": true,
+        "supportKeyEntry": false,
+        "supportInstallments": false,
+        "supportTIP": false,
         "useBenakiTheme": false,
         "useVodafoneTheme": false,
         "useSklavenitisTheme": false,
