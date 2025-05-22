@@ -18,47 +18,11 @@
     "multiAcq": {
         "acquirers": [
             {
-                "acqIndetifier" : "014",
-                "acqName" : "Nexi",
-                "allowLocal" : true,
-                "allowRefund" : true,
-                "allowKeyEntry" : true,
-                "allowMoto" : true,
-                "premiumLocalApprovalCode" : ""
-            },
-            {
                 "acqIndetifier": "026",
                 "acqName": "Worldline",
-                "allowLocal": true,
+                "allowLocal": false,
                 "allowRefund": true,
-                "allowKeyEntry": true,
-                "allowMoto": true,
-                "premiumLocalApprovalCode" : ""
-            },
-            {
-                "acqIndetifier": "011",
-                "acqName": "National Bank",
-                "allowLocal": true,
-                "allowRefund": true,
-                "allowKeyEntry": true,
-                "allowMoto": true,
-                "premiumLocalApprovalCode" : ""
-            },
-            {
-                "acqIndetifier": "017",
-                "acqName": "Piraeus Bank",
-                "allowLocal": true,
-                "allowRefund": true,
-                "allowKeyEntry": true,
-                "allowMoto": true,
-                "premiumLocalApprovalCode" : ""
-            },
-            {
-                "acqIndetifier": "016",
-                "acqName": "Aticca Bank",
-                "allowLocal": true,
-                "allowRefund": true,
-                "allowKeyEntry": true,
+                "allowKeyEntry": false,
                 "allowMoto": true,
                 "premiumLocalApprovalCode" : ""
             }
@@ -76,8 +40,8 @@
     "applicationSettings": {
         "sdkLink": 1,
         "useMastercardNewBrand": true,
-        "supportKeyEntry": true,
-        "supportInstallments": true,
+        "supportKeyEntry": false,
+        "supportInstallments": false,
         "supportTIP": true,
         "useBenakiTheme": false,
         "useVodafoneTheme": false,
@@ -102,7 +66,7 @@
         "ishceSelectionAcquirerBankId": "011",
         "refundValidationEnabled": false,
         "localSaleEnabled": true,
-        "isManualAcquirerSelection": true,
+        "isManualAcquirerSelection": false,
         "preAuthEnabled": true,
         "unattendedMode": true,
         "mdbManagerEnabled": false,
@@ -134,19 +98,19 @@
         }
     },
     "loyaltySettings": {
-        "alphaBankBonusEnabled": true,
+        "alphaBankBonusEnabled": false,
         "alphaBankBonusVTid": "77605412",
         "alphaBankBonusVMid": "0023839673",
         "useAlphaBankBonusBRAmount": true,
         "useAlphaBankBonusWithoutOffers": false,
-        "eurobankEuroepistrofiEnabled": true,
+        "eurobankEuroepistrofiEnabled": false,
         "eurobankEuroepistrofiVTid": "77605412",
         "eurobankEuroepistrofiVMid": "0023839673",
         "eurobankEuroepistrofiUploadFullRedemption": true,
-        "nbgGo4MoreEnabled": true,
+        "nbgGo4MoreEnabled": false,
         "nbgGo4MoreVTid": "31999982",
         "nbgGo4MoreVMid": "1235661",
-        "pbgYellowEnabled": true,
+        "pbgYellowEnabled": false,
         "pbgYellowVTid": "99923870",
         "pbgYellowVMid": "142647833",
         "pbgYellowPointsToRedeem": "2000",
